@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on minecraft mods seed  and maybe work on external cheats with c++ and c sharp assembly<br> br>🤝 I’m looking for help with seedreverser<br>🌱 I’m currently learning python c++ java cuda currently improving them<br>💬 Ask me about anything im open
+🔭 I’m currently working on minecraft mods seed  and maybe work on external cheats with c++ and c sharp assembly br>🤝 I’m looking for help with seedreverser<br>🌱 I’m currently learning python c++ java cuda currently improving them<br>💬 Ask me about anything im open
 
 
 ## 🌐 Socials:
